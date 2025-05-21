@@ -1,617 +1,457 @@
-Selling Guide | Fannie Mae
-Skip to main content
-FM Platform Nav
-Single-Family Business
-Homebuyers, Owners, and Renters
-Single-Family
-Capital Markets
-Multifamily
-About Us
-Careers
-Contact Us
-FM Site Nav
-Homepage
-Toggle navigation
-Originating & Underwriting
-Pricing & Execution
-Delivering
-Servicing
-Learning Center
-Apps & Technology
-News & Events
-Toggle search
-Skip to main content
-Search the Guide:
-Summary of Contents
-Doing Business with Fannie Mae
-Part A
-describes the requirements a lender must satisfy to become a Fannie Mae-approved seller and servicer of residential home mortgage loans. This part also includes information on an approved lender’s contractual obligations, procedures for obtaining technology applications, and requirements for maintaining lender eligibility. It includes the following subparts: Approval Qualification, Lender Contract, Getting Started With Fannie Mae, Maintaining Seller/Servicer Eligibility.
-Origination Through Closing
-Part B
-provides the requirements for originating conventional and government loans for sale to Fannie Mae. It includes the following subparts: Loan Application Package, Eligibility, Underwriting Borrowers, Underwriting Property, Unique Eligibility and Underwriting Considerations, Government Programs Eligibility and Underwriting Requirements, Insurance, Closing: Legal Documents.
-Selling, Securitizing & Delivering
-Part C
-describes the requirements associated with the two primary ways lenders transact business with Fannie Mae: selling whole loans for cash and pooling loans into Fannie Mae mortgage-backed securities (MBS), which includes Uniform Mortgage-Backed Securities (UMBS). It includes the following subparts: General Information on Execution Options and Loan Delivery, Whole Loan Transactions, Mortgage-Backed Securities (MBS).
-Ensuring Quality Control
-Part D
-discusses the quality control process for lenders and Fannie Mae. It includes the following subparts: Lender QC Process, Fannie Mae QC Process.
-Quick Reference Materials
-Part E
-provides reference materials to support this Guide.
-Have questions?
-Get answers to your policy and guide questions, straight from the source.
-Get Started
-Work with Fannie Mae
-Customer Login
-Password Reset
-Not a customer? Get Started
-Products & Solutions
-Mortgage Products & Options
-Technology Apps & Solutions
-Support & Resources
-Customer Service
-News & Events
-Learning Center
-Guide Forms
-Other Sites
-The Marketing Center
-Fannie Mae's Consumer Website
-Duty to Serve
-Homepath
-Footer
-Suppliers
-Careers
-Contact Us
-Legal
-Privacy
-Cookie Preferences
-© 2025 Fannie Mae
-Originating & Underwriting
-Selling Guide
-Download PDF Guide
-(Published: Feb 05 2025)
-Selling Questions? Ask Poli
-Get answers to Guide & policy questions with Fannie Mae's AI-powered search tool.
-Guide Resources
-Forms, announcements, lender letters, legal documents, and more.
-Browse the Guide
-Table Of Contents
-Copyright and Preface
-Part A
-Doing Business with Fannie Mae
-Subpart A1,  Approval Qualification
-Chapter A1-1,  Application and Approval of Seller/Servicer
-A1-1-01,  Application and Approval of Seller/Servicer
-Subpart A2,  Lender Contract
-Chapter A2-1,  Contractual Obligations for Sellers/Servicers
-A2-1-01,  Contractual Obligations for Sellers/Servicers
-A2-1-02,  Nature of Mortgage Transaction
-A2-1-03,  Indemnification for Losses
-Chapter A2-2,  Contractual Representations and Warranties
-A2-2-01,  Representations and Warranties Overview
-A2-2-02,  Delivery Information and Delivery-Option Specific Representations and Warranties
-A2-2-03,  Document Warranties
-A2-2-04,  Limited Waiver and Enforcement Relief of Representations and Warranties
-A2-2-05,  Invalidation of Limited Waiver of Representations and Warranties
-A2-2-06,  Representations and Warranties on Property Value
-A2-2-07,  Life-of-Loan Representations and Warranties
-Chapter A2-3,  Lender Breach of Contract
-Section A2-3.1,  Lender Breach of Contract
-A2-3.1-01,  Lender Breach of Contract
-A2-3.1-02,  Sanctions, Suspensions, and Terminations
-Section A2-3.2,  Loan Repurchases and Make Whole Payments Requested by Fannie Mae
-A2-3.2-01,  Loan Repurchases and Make Whole Payments Requested by Fannie Mae
-A2-3.2-02,  Enforcement Relief for Breaches of Certain Representations and Warranties Related to Underwriting and Eligibility
-A2-3.2-03,  Remedies Framework
-Section A2-3.3,  Compensatory Fees
-A2-3.3-01,  Compensatory Fees
-Chapter A2-4,  Loan Files and Records
-Section A2-4.1,  Establishment, Ownership, and Retention of Loan Files and Records
-A2-4.1-01,  Establishing Loan Files
-A2-4.1-02,  Ownership and Retention of Loan Files and Records
-A2-4.1-03,  Electronic Records, Signatures, and Transactions
-A2-4.1-04,  Notarization Standards
-Chapter A2-5,  Fannie Mae Trade Name and Trademarks
-A2-5-01,  Fannie Mae Trade Name and Trademarks
-Subpart A3,  Getting Started With Fannie Mae
-Chapter A3-1,  Fannie Mae’s Technology Products
-A3-1-01,  Fannie Mae’s Technology Products
-Chapter A3-2,  Compliance With Requirements and Laws
-A3-2-01,  Compliance With Laws
-A3-2-02,  Responsible Lending Practices
-Chapter A3-3,  Third-Party Lending Functions and Servicing Arrangements
-A3-3-01,  Outsourcing of Mortgage Processing and Third-Party Originations
-A3-3-02,  Concurrent Servicing Transfers
-A3-3-03,  Other Servicing Arrangements
-A3-3-04,  Document Custodians
-A3-3-05,  Custody of Mortgage Documents
-Chapter A3-4,  Lending Practices
-A3-4-01,  Confidentiality of Information
-A3-4-02,  Data Quality and Integrity
-A3-4-03,  Preventing, Detecting, and Reporting Mortgage Fraud
-Chapter A3-5,  Fidelity Bond and Errors and Omissions Coverage
-A3-5-01,  Fidelity Bond and Errors and Omissions Coverage Provisions
-A3-5-02,  Fidelity Bond Policy Requirements
-A3-5-03,  Errors and Omissions Policy Requirements
-A3-5-04,  Reporting Fidelity Bond and Errors and Omissions Events
-Subpart A4,  Maintaining Seller/Servicer Eligibility
-Chapter A4-1,  Maintaining Seller/Servicer Eligibility: Overview
-A4-1-01,  Maintaining Seller/Servicer Eligibility
-A4-1-02,  Submission of Financial Statements and Reports
-A4-1-03,  Report of Changes in the Seller/Servicer’s Organization
-A4-1-04,  Submission of Irrevocable Limited Powers of Attorney
-Part B
-Origination Through Closing
-Subpart B1,  Loan Application Package
-Chapter B1-1,  Application Package Documentation
-B1-1-01,  Contents of the Application Package
-B1-1-02,  Blanket Authorization Form
-B1-1-03,  Allowable Age of Credit Documents and Federal Income Tax Returns
-Subpart B2,  Eligibility
-Chapter B2-1,  Mortgage Eligibility
-Section B2-1.1,  Occupancy Types
-B2-1.1-01,  Occupancy Types
-Section B2-1.2,  LTV, CLTV, HCLTV, and Subordinate Financing
-B2-1.2-01,  Loan-to-Value (LTV) Ratios
-B2-1.2-02,  Combined Loan-to-Value (CLTV) Ratios
-B2-1.2-03,  Home Equity Combined Loan-to-Value (HCLTV) Ratios
-B2-1.2-04,  Subordinate Financing
-Section B2-1.3,  Loan Purpose
-B2-1.3-01,  Purchase Transactions
-B2-1.3-02,  Limited Cash-Out Refinance Transactions
-B2-1.3-03,  Cash-Out Refinance Transactions
-B2-1.3-04,  Prohibited Refinancing Practices
-B2-1.3-05,  Payoff of Installment Land Contract Requirements
-Section B2-1.4,  Loan Amortization Types
-B2-1.4-01,  Fixed-Rate Loans
-B2-1.4-02,  Adjustable-Rate Mortgages (ARMs)
-B2-1.4-03,  Convertible ARMs
-B2-1.4-04,  Temporary Interest Rate Buydowns
-Section B2-1.5,  Other Loan Attributes and Related Policies
-B2-1.5-01,  Loan Limits
-B2-1.5-02,  Loan Eligibility
-B2-1.5-03,  Legal Requirements
-B2-1.5-04,  Escrow Accounts
-B2-1.5-05,  Principal Curtailments
-Chapter B2-2,  Borrower Eligibility
-B2-2-01,  General Borrower Eligibility Requirements
-B2-2-02,  Non–U.S. Citizen Borrower Eligibility Requirements
-B2-2-03,  Multiple Financed Properties for the Same Borrower
-B2-2-04,  Guarantors, Co-Signers, or Non-Occupant Borrowers on the Subject Transaction
-B2-2-05,  Inter Vivos Revocable Trusts
-B2-2-06,  Homeownership Education and Housing Counseling
-B2-2-07,  First-Generation Homebuyer Loans
-Chapter B2-3,  Property Eligibility
-B2-3-01,  General Property Eligibility
-B2-3-02,  Special Property Eligibility and Underwriting Considerations: Factory-Built Housing
-B2-3-03,  Special Property Eligibility and Underwriting Considerations: Leasehold Estates
-B2-3-04,  Special Property Eligibility Considerations
-B2-3-05,  Properties Affected by a Disaster
-Subpart B3,  Underwriting Borrowers
-Chapter B3-1,  Manual Underwriting
-B3-1-01,  Comprehensive Risk Assessment
-Chapter B3-2,  Desktop Underwriter (DU)
-B3-2-01,  General Information on DU
-B3-2-02,  DU Validation Service
-B3-2-03,  Risk Factors Evaluated by DU
-B3-2-04,  DU Documentation Requirements
-B3-2-05,  Approve/Eligible Recommendations
-B3-2-06,  Approve/Ineligible Recommendations
-B3-2-07,  Refer with Caution Recommendations
-B3-2-08,  Out of Scope Recommendations
-B3-2-09,  Erroneous Credit Report Data
-B3-2-10,  Accuracy of DU Data, DU Tolerances, and Errors in the Credit Report
-B3-2-11,  DU Underwriting Findings Report
-Chapter B3-3,  Income Assessment
-Section B3-3.1,  Employment and Other Sources of Income
-B3-3.1-01,  General Income Information
-B3-3.1-02,  Standards for Employment Documentation
-B3-3.1-03,  Base Pay (Salary or Hourly), Bonus, and Overtime Income
-B3-3.1-04,  Commission Income
-B3-3.1-05,  Secondary Employment Income (Second Job and Multiple Jobs) and Seasonal Income
-B3-3.1-06,  Requirements and Uses of IRS IVES Request for Transcript of Tax Return Form 4506-C
-B3-3.1-07,  Verbal Verification of Employment
-B3-3.1-08,  Rental Income
-B3-3.1-09,  Other Sources of Income
-B3-3.1-10,  Income Calculator
-Section B3-3.2,  Self-Employment Income
-B3-3.2-01,  Underwriting Factors and Documentation for a Self-Employed Borrower
-B3-3.2-02,  Business Structures
-B3-3.2-03,  IRS Forms Quick Reference
-Section B3-3.3,  Self-Employment Documentation Requirements for an Individual
-B3-3.3-01,  General Information on Analyzing Individual Tax Returns
-B3-3.3-02,  Income Reported on IRS Form 1040
-B3-3.3-03,  Income or Loss Reported on IRS Form 1040, Schedule C
-B3-3.3-04,  Income or Loss Reported on IRS Form 1040, Schedule D
-B3-3.3-05,  Income or Loss Reported on IRS Form 1040, Schedule E
-B3-3.3-06,  Income or Loss Reported on IRS Form 1040, Schedule F
-B3-3.3-07,  Income or Loss Reported on IRS Form 1065 or IRS Form 1120S, Schedule K-1
-Section B3-3.4,  Self-Employment Documentation Requirements for a Business
-B3-3.4-01,  Analyzing Partnership Returns for a Partnership or LLC
-B3-3.4-02,  Analyzing Returns for an S Corporation
-B3-3.4-03,  Analyzing Returns for a Corporation
-B3-3.4-04,  Analyzing Profit and Loss Statements
-Section B3-3.5,  DU Requirements for Income Assessment
-B3-3.5-01,  Income and Employment Documentation for DU
-B3-3.5-02,  Income from Rental Property in DU
-Chapter B3-4,  Asset Assessment
-Section B3-4.1,  General Asset Requirements
-B3-4.1-01,  Minimum Reserve Requirements
-B3-4.1-02,  Interested Party Contributions (IPCs)
-B3-4.1-03,  Types of Interested Party Contributions (IPCs)
-B3-4.1-04,  Virtual Currency
-Section B3-4.2,  Verification of Depository Assets
-B3-4.2-01,  Verification of Deposits and Assets
-B3-4.2-02,  Depository Accounts
-B3-4.2-03,  Individual Development Accounts
-B3-4.2-04,  Pooled Savings (Community Savings Funds)
-B3-4.2-05,  Foreign Assets
-Section B3-4.3,  Verification of Non-Depository Assets
-B3-4.3-01,  Stocks, Stock Options, Bonds, and Mutual Funds
-B3-4.3-02,  Trust Accounts
-B3-4.3-03,  Retirement Accounts
-B3-4.3-04,  Personal Gifts
-B3-4.3-05,  Gifts of Equity
-B3-4.3-06,  Grants and Lender Contributions
-B3-4.3-07,  Disaster Relief Grants or Loans
-B3-4.3-08,  Employer Assistance
-B3-4.3-09,  Earnest Money Deposit
-B3-4.3-10,  Anticipated Sales Proceeds
-B3-4.3-11,  Trade Equity
-B3-4.3-12,  Rent-Related Credits
-B3-4.3-13,  Sweat Equity
-B3-4.3-14,  Bridge/Swing Loans
-B3-4.3-15,  Borrowed Funds Secured by an Asset
-B3-4.3-16,  Credit Card Financing and Reward Points
-B3-4.3-17,  Personal Unsecured Loans
-B3-4.3-18,  Sale of Personal Assets
-B3-4.3-19,  Cash Value of Life Insurance
-B3-4.3-20,  Anticipated Savings and Cash-on-Hand
-B3-4.3-21,  Borrower's Earned Real Estate Commission
-Section B3-4.4,  DU Requirements for Asset Assessment
-B3-4.4-01,  DU Asset Verification
-B3-4.4-02,  Requirements for Certain Assets in DU
-Chapter B3-5,  Credit Assessment
-Section B3-5.1,  Credit Scores
-B3-5.1-01,  General Requirements for Credit Scores
-B3-5.1-02,  Determining the Credit Score for a Mortgage Loan
-Section B3-5.2,  Credit Reports
-B3-5.2-01,  Requirements for Credit Reports
-B3-5.2-02,  Types of Credit Reports
-B3-5.2-03,  Accuracy of Credit Information in a Credit Report
-Section B3-5.3,  Traditional Credit History
-B3-5.3-01,  Number and Age of Accounts
-B3-5.3-02,  Payment History
-B3-5.3-03,  Previous Mortgage Payment History
-B3-5.3-04,  Inquiries: Recent Attempts to Obtain New Credit
-B3-5.3-05,  Credit Utilization
-B3-5.3-06,  Authorized Users of Credit
-B3-5.3-07,  Significant Derogatory Credit Events — Waiting Periods and Re-establishing Credit
-B3-5.3-08,  Extenuating Circumstances for Derogatory Credit
-B3-5.3-09,  DU Credit Report Analysis
-Section B3-5.4,  Nontraditional Credit History
-B3-5.4-01,  Eligibility Requirements for Loans with Nontraditional Credit
-B3-5.4-02,  Number and Types of Nontraditional Credit References
-B3-5.4-03,  Documentation and Assessment of a Nontraditional Credit History
-Chapter B3-6,  Liability Assessment
-B3-6-01,  General Information on Liabilities
-B3-6-02,  Debt-to-Income Ratios
-B3-6-03,  Monthly Housing Expense for the Subject Property
-B3-6-04,  Qualifying Payment Requirements
-B3-6-05,  Monthly Debt Obligations
-B3-6-06,  Qualifying Impact of Other Real Estate Owned
-B3-6-07,  Debts Paid Off At or Prior to Closing
-B3-6-08,  DU: Requirements for Liability Assessment
-Subpart B4,  Underwriting Property
-Chapter B4-1,  Property Assessment and Valuation
-Section B4-1.1,  General Appraisal Requirements
-B4-1.1-01,  Definition of Market Value
-B4-1.1-02,  Lender Responsibilities
-B4-1.1-03,  Appraiser Selection Criteria
-B4-1.1-04,  Unacceptable Appraisal Practices
-B4-1.1-05,  Disclosure of Information to Appraisers
-B4-1.1-06,  Uniform Appraisal Dataset (UAD) and the Uniform Collateral Data Portal (UCDP)
-Section B4-1.2,  Documentation Standards
-B4-1.2-01,  Appraisal Report Forms and Exhibits
-B4-1.2-02,  Desktop Appraisals
-B4-1.2-03,  Hybrid Appraisals
-B4-1.2-04,  Appraisal Age and Use Requirements
-B4-1.2-05,  Requirements for Verifying Completion and Postponed Improvements
-Section B4-1.3,  Appraisal Report Assessment
-B4-1.3-01,  Review of the Appraisal Report
-B4-1.3-02,  Subject and Contract Sections of the Appraisal Report
-B4-1.3-03,  Neighborhood Section of the Appraisal Report
-B4-1.3-04,  Site Section of the Appraisal Report
-B4-1.3-05,  Improvements Section of the Appraisal Report
-B4-1.3-06,  Property Condition and Quality of Construction of the Improvements
-B4-1.3-07,  Sales Comparison Approach Section of the Appraisal Report
-B4-1.3-08,  Comparable Sales
-B4-1.3-09,  Adjustments to Comparable Sales
-B4-1.3-10,  Cost and Income Approach to Value
-B4-1.3-11,  Valuation Analysis and Reconciliation
-B4-1.3-12,  Appraisal Quality Matters
-Section B4-1.4,  Special Appraisal and Other Valuation Considerations
-B4-1.4-01,  Factory-Built Housing: Manufactured Housing
-B4-1.4-02,  Factory-Built Housing: Modular, Prefabricated, Panelized, or Sectional Housing
-B4-1.4-03,  Condo Appraisal Requirements
-B4-1.4-04,  Co-op Appraisal Requirements
-B4-1.4-05,  Leasehold Interests Appraisal Requirements
-B4-1.4-06,  Community Land Trust Appraisal Requirements
-B4-1.4-07,  Mixed-Use Property Appraisal Requirements
-B4-1.4-08,  Environmental Hazards Appraisal Requirements
-B4-1.4-09,  Special Assessment or Community Facilities Districts Appraisal Requirements
-B4-1.4-10,  Value Acceptance (Appraisal Waiver)
-B4-1.4-11,  Value Acceptance + Property Data
-Chapter B4-2,  Project Standards
-Section B4-2.1,  General Project Standards
-B4-2.1-01,  General Information on Project Standards
-B4-2.1-02,  Waiver of Project Review
-B4-2.1-03,  Ineligible Projects
-B4-2.1-04,  Environmental Hazard Assessments
-B4-2.1-05,  Unacceptable Environmental Hazards
-B4-2.1-06,  Remedial Actions for Environmental Hazard Assessments Below Standards
-Section B4-2.2,  Project Eligibility
-B4-2.2-01,  Limited Review Process
-B4-2.2-02,  Full Review Process
-B4-2.2-03,  Full Review: Additional Eligibility Requirements for Units in New and Newly Converted Condo Projects
-B4-2.2-04,  Geographic-Specific Condo Project Considerations
-B4-2.2-05,  FHA-Approved Condo Review Eligibility
-B4-2.2-06,  Project Eligibility Review Service (PERS)
-B4-2.2-07,  Projects with Special Considerations and Project Eligibility Waivers
-Section B4-2.3,  PUD and Co-op Eligibility Requirements
-B4-2.3-01,  Eligibility Requirements for Units in PUD Projects
-B4-2.3-02,  Co-op Project Eligibility
-B4-2.3-03,  Legal Requirements for Co-op Projects
-B4-2.3-04,  Loan Eligibility for Co-op Share Loans
-B4-2.3-05,  Geographic-Specific Co-op Project Considerations
-Subpart B5,  Unique Eligibility and Underwriting Considerations
-Chapter B5-1,  High-Balance Mortgage Loans
-B5-1-01,  High-Balance Mortgage Loan Eligibility and Underwriting
-B5-1-02,  High-Balance Pricing, Mortgage Insurance, Special Feature Codes, and Delivery Limitations
-Chapter B5-2,  Manufactured Housing
-B5-2-01,  Manufactured Housing
-B5-2-02,  Manufactured Housing Loan Eligibility
-B5-2-03,  Manufactured Housing Underwriting Requirements
-B5-2-04,  Manufactured Housing Pricing, Mortgage Insurance, and Loan Delivery Requirements
-B5-2-05,  Manufactured Housing Legal Considerations
-Chapter B5-3,  Construction and Energy Financing
-Section B5-3.1,  Conversion of Construction-to-Permanent Financing
-B5-3.1-01,  Conversion of Construction-to-Permanent Financing: Overview
-B5-3.1-02,  Conversion of Construction-to-Permanent Financing: Single-Closing Transactions
-B5-3.1-03,  Conversion of Construction-to-Permanent Financing: Two-Closing Transactions
-Section B5-3.2,  HomeStyle Renovation Mortgage
-B5-3.2-01,  HomeStyle Renovation Mortgages
-B5-3.2-02,  HomeStyle Renovation Mortgages: Loan and Borrower Eligibility
-B5-3.2-03,  HomeStyle Renovation Mortgages: Collateral Considerations
-B5-3.2-04,  HomeStyle Renovation Mortgages: Costs and Escrow Accounts
-B5-3.2-05,  HomeStyle Renovation Mortgages: Completion Certification
-B5-3.2-06,  HomeStyle Renovation: Renovation Contract, Renovation Loan Agreement, and Lien Waiver
-Section B5-3.3,  HomeStyle Energy Mortgages
-B5-3.3-01,  HomeStyle Energy for Improvements on Existing Properties
-Section B5-3.4,  Property Assessed Clean Energy Loans
-B5-3.4-01,  Property Assessed Clean Energy Loans
-Chapter B5-4,  Property-Specific Products
-Section B5-4.1,  General Requirements of Texas Section 50(a)(6) Loans
-B5-4.1-01,  Texas Section 50(a)(6) Loans
-B5-4.1-02,  Texas Section 50(a)(6) Loan Eligibility
-B5-4.1-03,  Texas Section 50(a)(6) Loan Underwriting, Collateral, and Closing Considerations
-B5-4.1-04,  Texas Section 50(a)(6) Loan Delivery and Servicing Considerations
-Section B5-4.2,  Other Property-Specific Products
-B5-4.2-01,  Native American Conventional Lending Initiative (NACLI)
-B5-4.2-02,  Disaster-Related Limited Cash-Out Refinance Flexibilities
-B5-4.2-03,  Loans Secured by HomePath Properties
-Chapter B5-5,  Community Seconds, Loans with Resale Restrictions, and Shared Equity Transactions
-Section B5-5.1,  Community Seconds
-B5-5.1-01,  Community Seconds Loans
-B5-5.1-02,  Community Seconds Loan Eligibility
-B5-5.1-03,  Community Seconds: Shared Appreciation Transactions
-Section B5-5.2,  Loans with Resale Restrictions
-B5-5.2-01,  Loans With Resale Restrictions: General Information
-B5-5.2-02,  Loans with Resale Restrictions: Eligibility, Collateral and Delivery Requirements
-Section B5-5.3,  Shared Equity Transactions
-B5-5.3-01,  Shared Equity Overview
-B5-5.3-02,  Shared Equity Transactions: General Requirements
-B5-5.3-03,  Shared Equity Transactions: Eligibility, Underwriting and Collateral Requirements
-B5-5.3-04,  Massachusetts Resale Restriction Loan Eligibility Requirements
-Chapter B5-6,  HomeReady Mortgage
-B5-6-01,  HomeReady Mortgage Loan and Borrower Eligibility
-B5-6-02,  HomeReady Mortgage Underwriting Methods and Requirements
-B5-6-03,  HomeReady Mortgage Loan Pricing, Mortgage Insurance, and Special Feature Codes
-Chapter B5-7,  High Loan-to-Value Refinance Option
-B5-7-01,  High LTV Refinance Loan and Borrower Eligibility
-B5-7-02,  High LTV Refinance Underwriting, Documentation, and Collateral Requirements for the New Loan
-B5-7-03,  High LTV Refinance Alternative Qualification Path
-B5-7-04,  High LTV Refinance Representations and Warranties
-B5-7-05,  High LTV Refinance Pricing, Mortgage Insurance, and Special Feature Codes
-Subpart B6,  Government Programs Eligibility and Underwriting Requirements
-Chapter B6-1,  Government Insured and Guaranteed Mortgages
-B6-1-01,  General Government Mortgage Loan Requirements
-B6-1-02,  Eligible FHA-Insured Mortgage Loans
-B6-1-03,  Eligible VA-Guaranteed Mortgages
-B6-1-04,  Eligible HUD-Guaranteed Section 184 Mortgages
-B6-1-05,  Eligible RD-Guaranteed Mortgages
-Subpart B7,  Insurance
-Chapter B7-1,  Mortgage Insurance/Loan Guaranty
-B7-1-01,  Provision of Mortgage Insurance
-B7-1-02,  Mortgage Insurance Coverage Requirements
-B7-1-03,  Lender-Purchased Mortgage Insurance
-B7-1-04,  Financed Borrower-Purchased Mortgage Insurance
-B7-1-05,  Government Mortgage Loan Guaranty or Insurance
-Chapter B7-2,  Title Insurance
-B7-2-01,  Provision of Title Insurance
-B7-2-02,  Title Insurer Requirements
-B7-2-03,  General Title Insurance Coverage
-B7-2-04,  Special Title Insurance Coverage Considerations
-B7-2-05,  Title Exceptions and Impediments
-B7-2-06,  Attorney Title Opinion Letter Requirements
-Chapter B7-3,  Property and Flood Insurance
-B7-3-01,  General Property Insurance Requirements for All Property Types
-B7-3-02,  Property Insurance Requirements for One-to Four-Unit Properties
-B7-3-03,  Master Property Insurance Requirements for Project Developments
-B7-3-04,  Individual Property Insurance Requirements for a Unit in a Project Development
-B7-3-05,  Additional Insurance Requirements
-B7-3-06,  Flood Insurance Requirements for All Property Types
-B7-3-07,  Evidence of Property Insurance
-B7-3-08,  Mortgagee Clause, Named Insured, and Notice of Cancellation Requirements
-Chapter B7-4,  Liability and Fidelity/Crime Insurance Requirements for Project Developments
-B7-4-01,  General Liability Insurance Requirements for Project Developments
-B7-4-02,  Fidelity/Crime Insurance Requirements for Project Developments
-Subpart B8,  Closing: Legal Documents
-Chapter B8-1,  General Information on Legal Documents
-B8-1-01,  Publication of Legal Documents
-Chapter B8-2,  Security Instruments
-B8-2-01,  Security Instruments for Conventional Mortgages
-B8-2-02,  Special-Purpose Security Instruments
-B8-2-03,  Signature Requirements for Security Instruments
-Chapter B8-3,  Notes
-B8-3-01,  Notes for Conventional Mortgages
-B8-3-02,  Special Note Provisions and Language Requirements
-B8-3-03,  Signature Requirements for Notes
-B8-3-04,  Note Endorsement
-Chapter B8-4,  Riders and Addenda
-B8-4-01,  Riders and Addenda
-Chapter B8-5,  Special-Purpose Legal Documents
-B8-5-01,  General Information on Special-Purpose Legal Documents
-B8-5-02,  Inter Vivos Revocable Trust Mortgage Documentation and Signature Requirements
-B8-5-03,  HomeStyle Renovation Mortgage Documentation Requirements
-B8-5-04,  Sample Legal Documents
-B8-5-05,  Requirements for Use of a Power of Attorney
-Chapter B8-6,  Mortgage Assignments
-B8-6-01,  Authorized Use of Intervening and Blanket Assignments
-Chapter B8-7,  Mortgage Electronic Registration System (MERS)
-B8-7-01,  Mortgage Electronic Registration Systems (MERS), Inc.
-Chapter B8-8,  Sale of eMortgages to Fannie Mae
-B8-8-01,  General Information on eMortgages
-B8-8-02,  Requirements for Creating, Closing, and Correcting eNotes
-Part C
-Selling, Securitizing, and Delivering Loans
-Subpart C1,  General Information on Execution Options and Loan Delivery
-Chapter C1-1,  Execution Options Overview
-C1-1-01,  Execution Options
-Chapter C1-2,  Loan Delivery Overview
-C1-2-01,  General Information on Delivering Loan Data and Documents
-C1-2-02,  Loan Data and Documentation Delivery Requirements
-C1-2-03,  Ownership of Mortgage Loans Prior to Purchase or Securitization and Third-Party Security Interests
-C1-2-04,  Delivering eMortgages to Fannie Mae
-C1-2-05,  Delivering Green MBS to Fannie Mae
-C1-2-06,  Bailee Letters
-Chapter C1-3,  Loan Remittance Types Overview
-C1-3-01,  General Information on Remittance Types
-Subpart C2,  Whole Loan Transactions
-Chapter C2-1,  Mandatory and Best Efforts Commitments to Sell Whole Loans
-Section C2-1.1,  Mandatory Commitments to Sell Whole Loans
-C2-1.1-01,  Mandatory Commitment Process
-C2-1.1-02,  General Information about Mandatory Commitment Pricing and Fees
-C2-1.1-03,  Mandatory Commitment Terms, Amounts, Periods and Other Requirements
-C2-1.1-04,  Mandatory Commitment Extensions and Pair-Offs
-C2-1.1-05,  Servicing Fees
-C2-1.1-06,  Accrued Interest Payments for Regularly Amortizing Mortgages
-C2-1.1-07,  Standard ARM and Converted ARM Resale Commitments
-Section C2-1.2,  Best Efforts Commitments to Sell Whole Loans
-C2-1.2-01,  Best Efforts Commitment Process
-C2-1.2-02,  Best Efforts Commitment Pricing, Periods, and Fees
-C2-1.2-03,  Best Efforts Commitment Terms, Amounts, and Other Requirements
-Section C2-1.3,  Servicing Execution Tool to Sell Whole Loans
-C2-1.3-01,  Servicing Marketplace
-Chapter C2-2,  Whole Loan Deliveries to and Purchasing by Fannie Mae
-C2-2-01,  General Requirements for Good Delivery of Whole Loans
-C2-2-02,  Documentation Requirements for Whole Loan Deliveries
-C2-2-03,  General Information on Whole Loan Purchasing Policies
-C2-2-04,  Timing of Distribution of Whole Loan Purchase Proceeds
-C2-2-05,  Whole Loan Purchasing Process
-C2-2-06,  Authorization to Transfer Funds
-C2-2-07,  Purchase Payee Codes
-Subpart C3,  Mortgage-Backed Securities (MBS)
-Chapter C3-1,  MBS Program Overview
-C3-1-01,  General Information About Fannie Mae’s MBS Program
-C3-1-02,  Preparing to Pool Loans into MBS
-Chapter C3-2,  MBS Securitization Process
-C3-2-01,  Determining Eligibility for Loans Pooled into MBS
-C3-2-02,  Selecting a Servicing Option
-C3-2-03,  MBS Remittance Type and Selecting a Remittance Cycle
-C3-2-04,  Mandatory MBS Commitments
-Chapter C3-3,  MBS Guaranty Fees and Guaranty Fee Buyups and Buydowns
-C3-3-01,  Determining and Remitting Guaranty Fees
-C3-3-02,  Accessing Buyup and Buydown Ratios and Calculating Payments or Charges
-C3-3-03,  Buying Up and Buying Down the Guaranty Fee for MBS
-Chapter C3-4,  Pooling Loans into Fixed-Rate MBS
-C3-4-01,  Term-Related Fixed-Rate Mortgage Pooling Parameters
-Chapter C3-5,  Pooling Loans into ARM MBS
-C3-5-01,  Creating Weighted-Average ARM MBS
-C3-5-02,  Calculating the Weighted-Average Pool Accrual Rates for ARM Flex Pools Using a Fixed MBS Margin
-C3-5-03,  Calculating the Weighted-Average Pool Accrual Rates for ARM Flex Pools Using a Weighted-Average MBS Margin
-C3-5-04,  Pooling ARMs with a Conversion Option
-C3-5-05,  Commingling ARMs in MBS
-Chapter C3-6,  Pooling Loans into Fannie Majors
-C3-6-01,  Parameters for Pooling Loans Into Fannie Majors
-Chapter C3-7,  Delivering and Trading MBS
-C3-7-01,  Establishing an MBS Trading Account
-C3-7-02,  Initiating an MBS Sale
-C3-7-03,  Making Good Delivery
-C3-7-04,  Delivering MBS Pool Data and Documents
-C3-7-05,  Confirming Presettlement Information
-C3-7-06,  Settling the Trade
-C3-7-07,  Sale of Fannie Mae Securities to Third Parties
-Part D
-Ensuring Quality Control (QC)
-Subpart D1,  Lender QC Process
-Chapter D1-1,  Lender Quality Control Process
-D1-1-01,  Lender Quality Control Programs, Plans, and Processes
-D1-1-02,  Lender Quality Control Staffing and Outsourcing of the Quality Control Process
-Chapter D1-2,  Lender Prefunding QC Mortgage Review
-D1-2-01,  Lender Prefunding Quality Control Review Process
-Chapter D1-3,  Lender Post-Closing QC Mortgage Review
-D1-3-01,  Lender Post-Closing Quality Control Review Process
-D1-3-02,  Lender Post-Closing Quality Control Review of Approval Conditions, Underwriting Decisions, and Documentation
-D1-3-03,  Lender Post-Closing Quality Control Review of Data Integrity
-D1-3-04,  Lender Post-Closing Quality Control Review of Appraisers, Appraisals, Property Data Collectors, and Property Data Collection
-D1-3-05,  Lender Post-Closing Quality Control Review of Closing Documents
-D1-3-06,  Lender Post-Closing Quality Control Reporting, Record Retention, and Audit
-Subpart D2,  Fannie Mae QC Process
-Chapter D2-1,  General Information on Fannie Mae QC Process
-D2-1-01,  General Information on Fannie Mae QC Reviews
-D2-1-02,  Fannie Mae QC File Request and Submission Requirements
-D2-1-03,  Outcomes of Fannie Mae QC Reviews
-D2-1-04,  Identifying and Remedying Origination Defects Under the Remedies Framework
-Part E
-Quick Reference Materials
-Chapter E-1,  Selling Guide Resources
-E-1-01,  References to Fannie Mae's Website
-E-1-02,  List of Contacts
-E-1-03,  List of Lender Contracts
-Chapter E-2,  Exhibits
-E-2-01,  Required Custodial Documents
-E-2-02,  Suggested Format for Phase I Environmental Hazard Assessments
-E-2-03,  Revocable Trust Rider (Sample Language)
-E-2-04,  Signature Requirements for Mortgages to Inter Vivos Revocable Trusts
-E-2-05,  Servicing Marketplace — Mortgage Loan Servicing Purchase and Sale Agreement
-E-2-06,  Correcting Errors in eNotes
-E-2-07,  Description of eNote Header, Footer, and eNote Clause
-Chapter E-3,  Acronyms and Glossary of Defined Terms
-E-3-01,  Acronyms and Glossary of Defined Terms: A
-E-3-02,  Acronyms and Glossary of Defined Terms: B
-E-3-03,  Acronyms and Glossary of Defined Terms: C
-E-3-04,  Acronyms and Glossary of Defined Terms: D
-E-3-05,  Acronyms and Glossary of Defined Terms: E
-E-3-06,  Acronyms and Glossary of Defined Terms: F
-E-3-07,  Acronyms and Glossary of Defined Terms: G
-E-3-08,  Acronyms and Glossary of Defined Terms: H
-E-3-09,  Acronyms and Glossary of Defined Terms: I
-E-3-10,  Acronyms and Glossary of Defined Terms: J
-E-3-11,  Acronyms and Glossary of Defined Terms: K
-E-3-12,  Acronyms and Glossary of Defined Terms: L
-E-3-13,  Acronyms and Glossary of Defined Terms: M
-E-3-14,  Acronyms and Glossary of Defined Terms: N
-E-3-15,  Acronyms and Glossary of Defined Terms: O
-E-3-16,  Acronyms and Glossary of Defined Terms: P
-E-3-17,  Acronyms and Glossary of Defined Terms: Q
-E-3-18,  Acronyms and Glossary of Defined Terms: R
-E-3-19,  Acronyms and Glossary of Defined Terms: S
-E-3-20,  Acronyms and Glossary of Defined Terms: T
-E-3-21,  Acronyms and Glossary of Defined Terms: U
-E-3-22,  Acronyms and Glossary of Defined Terms: V
-E-3-23,  Acronyms and Glossary of Defined Terms: W
-E-3-24,  Acronyms and Glossary of Defined Terms: X
-E-3-25,  Acronyms and Glossary of Defined Terms: Y
-E-3-26,  Acronyms and Glossary of Defined Terms: Z
-Browse the Guide
+Toggle navigation [PY4E](https://www.py4e.com)
+  * [Lessons](https://www.py4e.com/lessons)
+  * [Discussions](https://www.py4e.com/discussions)
+  * [OER](https://www.py4e.com/materials)
+
+
+  * [Instructor](https://online.dr-chuck.com)
+  * [Book](https://www.py4e.com/book)
+  * [Login](https://www.py4e.com/login)
+
+
+Chapter 1: Introduction Chapter 2: Variables Chapter 3: Conditionals Chapter 4: Functions Chapter 5: Iterations Chapter 6: Strings Chapter 7: Files Chapter 8: Lists Chapter 9: Dictionaries Chapter 10: Tuples Chapter 11: Regex Chapter 12: Networked Programs Chapter 13: Python and Web Services Chapter 14: Python Objects Chapter 15: Python and Databases Chapter 16: Data Vizualization
+# Variables, expressions, and statements
+## Values and types
+A _value_ is one of the basic things a program works with, like a letter or a number. The values we have seen so far are 1, 2, and “Hello, World!”
+These values belong to different _types_ : 2 is an integer, and “Hello, World!” is a _string_ , so called because it contains a “string” of letters. You (and the interpreter) can identify strings because they are enclosed in quotation marks.
+The `print` statement also works for integers. We use the `python` command to start the interpreter.
+```
+python
+>>> print(4)
+4
+```
+
+If you are not sure what type a value has, the interpreter can tell you.
+```
+>>> type('Hello, World!')
+<class 'str'>
+>>> type(17)
+<class 'int'>
+```
+
+Not surprisingly, strings belong to the type `str` and integers belong to the type `int`. Less obviously, numbers with a decimal point belong to a type called `float`, because these numbers are represented in a format called _floating point_.
+```
+>>> type(3.2)
+<class 'float'>
+```
+
+What about values like “17” and “3.2”? They look like numbers, but they are in quotation marks like strings.
+```
+>>> type('17')
+<class 'str'>
+>>> type('3.2')
+<class 'str'>
+```
+
+They’re strings.
+When you type a large integer, you might be tempted to use commas between groups of three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
+```
+>>> print(1,000,000)
+1 0 0
+```
+
+Well, that’s not what we expected at all! Python interprets 1,000,000 as a comma-separated sequence of integers, which it prints with spaces between.
+This is the first example we have seen of a semantic error: the code runs without producing an error message, but it doesn’t do the “right” thing.
+## Variables
+One of the most powerful features of a programming language is the ability to manipulate _variables_. A variable is a name that refers to a value.
+An _assignment statement_ creates new variables and gives them values:
+```
+>>> message = 'And now for something completely different'
+>>> n = 17
+>>> pi = 3.1415926535897931
+```
+
+This example makes three assignments. The first assigns a string to a new variable named `message`; the second assigns the integer 17 to `n`; the third assigns the (approximate) value of _π_ to `pi`.
+To display the value of a variable, you can use a print statement:
+```
+>>> print(n)
+17
+>>> print(pi)
+3.141592653589793
+```
+
+The type of a variable is the type of the value it refers to.
+```
+>>> type(message)
+<class 'str'>
+>>> type(n)
+<class 'int'>
+>>> type(pi)
+<class 'float'>
+```
+
+## Variable names and keywords
+Programmers generally choose names for their variables that are meaningful and document what the variable is used for.
+Variable names can be arbitrarily long. They can contain both letters and numbers, but they cannot start with a number. It is legal to use uppercase letters, but it is a good idea to begin variable names with a lowercase letter (you’ll see why later).
+The underscore character ( _ ) can appear in a name. It is often used in names with multiple words, such as `my_name` or `airspeed_of_unladen_swallow`. Variable names can start with an underscore character, but we generally avoid doing this unless we are writing library code for others to use.
+If you give a variable an illegal name, you get a syntax error:
+```
+>>> 76trombones = 'big parade'
+SyntaxError: invalid syntax
+>>> more@ = 1000000
+SyntaxError: invalid syntax
+>>> class = 'Advanced Theoretical Zymurgy'
+SyntaxError: invalid syntax
+```
+
+`76trombones` is illegal because it begins with a number. `more@` is illegal because it contains an illegal character, @. But what’s wrong with `class`?
+It turns out that `class` is one of Python’s _keywords_. The interpreter uses keywords to recognize the structure of the program, and they cannot be used as variable names.
+Python reserves 35 keywords:
+```
+False   await   else    import   pass
+None    break   except   in     raise
+True    class   finally  is     return
+and    continue  for    lambda   try
+as     def    from    nonlocal  while
+assert   del    global   not    with
+async   elif    if     or     yield
+```
+
+You might want to keep this list handy. If the interpreter complains about one of your variable names and you don’t know why, see if it is on this list.
+## Statements
+A _statement_ is a unit of code that the Python interpreter can execute. We have seen two kinds of statements: print being an expression statement and assignment.
+When you type a statement in interactive mode, the interpreter executes it and displays the result, if there is one.
+A script usually contains a sequence of statements. If there is more than one statement, the results appear one at a time as the statements execute.
+For example, the script
+```
+print(1)
+x = 2
+print(x)
+```
+
+produces the output
+```
+1
+2
+```
+
+The assignment statement produces no output.
+## Operators and operands
+_Operators_ are special symbols that represent computations like addition and multiplication. The values the operator is applied to are called _operands_.
+The operators `+`, `-`, `*`, `/`, and `**` perform addition, subtraction, multiplication, division, and exponentiation, as in the following examples:
+```
+20+32
+hour-1
+hour*60+minute
+minute/60
+5**2
+(5+9)*(15-7)
+```
+
+There has been a change in the division operator between Python 2 and Python 3. In Python 3, the result of this division is a floating point result:
+```
+>>> minute = 59
+>>> minute/60
+0.9833333333333333
+```
+
+The division operator in Python 2 would divide two integers and truncate the result to an integer:
+```
+>>> minute = 59
+>>> minute/60
+0
+```
+
+To obtain the same answer in Python 3 use floored ( `//` integer) division.
+```
+>>> minute = 59
+>>> minute//60
+0
+```
+
+In Python 3 integer division functions much more as you would expect if you entered the expression on a calculator.
+## Expressions
+An _expression_ is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable `x` has been assigned a value):
+```
+17
+x
+x + 17
+```
+
+If you type an expression in interactive mode, the interpreter _evaluates_ it and displays the result:
+```
+>>> 1 + 1
+2
+```
+
+But in a script, an expression all by itself doesn’t do anything! This is a common source of confusion for beginners.
+**Exercise 1:** Type the following statements in the Python interpreter to see what they do:
+```
+5
+x = 5
+x + 1
+```
+
+## Order of operations
+When more than one operator appears in an expression, the order of evaluation depends on the _rules of precedence_. For mathematical operators, Python follows mathematical convention. The acronym _PEMDAS_ is a useful way to remember the rules:
+  * _P_ arentheses have the highest precedence and can be used to force an expression to evaluate in the order you want. Since expressions in parentheses are evaluated first, `2 *   (3-1)` is 4, and `(1+1)**(5-2)` is 8. You can also use parentheses to make an expression easier to read, as in `(minute * 100) / 60`, even if it doesn’t change the result.
+  * _E_ xponentiation has the next highest precedence, so `2**1+1` is 3, not 4, and `3*1**3` is 3, not 27.
+  * _M_ ultiplication and _D_ ivision have the same precedence, which is higher than _A_ ddition and _S_ ubtraction, which also have the same precedence. So `2*3-1` is 5, not 4, and `6+4/2` is 8, not 5.
+  * Operators with the same precedence are evaluated from left to right. So the expression `5-3-1` is 1, not 3, because the `5-3` happens first and then `1` is subtracted from 2.
+
+
+When in doubt, always put parentheses in your expressions to make sure the computations are performed in the order you intend.
+## Modulus operator
+The _modulus operator_ works on integers and yields the remainder when the first operand is divided by the second. In Python, the modulus operator is a percent sign (`%`). The syntax is the same as for other operators:
+```
+>>> quotient = 7 // 3
+>>> print(quotient)
+2
+>>> remainder = 7 % 3
+>>> print(remainder)
+1
+```
+
+So 7 divided by 3 is 2 with 1 left over.
+The modulus operator turns out to be surprisingly useful. For example, you can check whether one number is divisible by another: if `x % y` is zero, then `x` is divisible by `y`.
+You can also extract the right-most digit or digits from a number. For example, `x % 10` yields the right-most digit of `x` (in base 10). Similarly, `x % 100` yields the last two digits.
+## String operations
+The `+` operator works with strings, but it is not addition in the mathematical sense. Instead it performs _concatenation_ , which means joining the strings by linking them end to end. For example:
+```
+>>> first = 10
+>>> second = 15
+>>> print(first+second)
+25
+>>> first = '100'
+>>> second = '150'
+>>> print(first + second)
+100150
+```
+
+The `*` operator also works with strings by multiplying the content of a string by an integer. For example:
+```
+>>> first = 'Test '
+>>> second = 3
+>>> print(first * second)
+Test Test Test
+```
+
+## Asking the user for input
+Sometimes we would like to take the value for a variable from the user via their keyboard. Python provides a built-in function called `input` that gets input from the keyboard[1](https://www.py4e.com/html3/02-variables#fn1). When this function is called, the program stops and waits for the user to type something. When the user presses `Return` or `Enter`, the program resumes and `input` returns what the user typed as a string.
+```
+>>> inp = input()
+Some silly stuff
+>>> print(inp)
+Some silly stuff
+```
+
+Before getting input from the user, it is a good idea to print a prompt telling the user what to input. You can pass a string to `input` to be displayed to the user before pausing for input:
+```
+>>> name = input('What is your name?\n')
+What is your name?
+Chuck
+>>> print(name)
+Chuck
+```
+
+The sequence `\n` at the end of the prompt represents a _newline_ , which is a special character that causes a line break. That’s why the user’s input appears below the prompt.
+If you expect the user to type an integer, you can try to convert the return value to `int` using the `int()` function:
+```
+>>> prompt = 'What...is the airspeed velocity of an unladen swallow?\n'
+>>> speed = input(prompt)
+What...is the airspeed velocity of an unladen swallow?
+17
+>>> int(speed)
+17
+>>> int(speed) + 5
+22
+```
+
+But if the user types something other than a string of digits, you get an error:
+```
+>>> speed = input(prompt)
+What...is the airspeed velocity of an unladen swallow?
+What do you mean, an African or a European swallow?
+>>> int(speed)
+ValueError: invalid literal for int() with
+base 10: 'What do you mean, an African or a European swallow?'
+```
+
+We will see how to handle this kind of error later.
+## Comments
+As programs get bigger and more complicated, they get more difficult to read. Formal languages are dense, and it is often difficult to look at a piece of code and figure out what it is doing, or why.
+For this reason, it is a good idea to add notes to your programs to explain in natural language what the program is doing. These notes are called _comments_ , and in Python they start with the `#` symbol:
+```
+# compute the percentage of the hour that has elapsed
+percentage = (minute * 100) / 60
+```
+
+In this case, the comment appears on a line by itself. You can also put comments at the end of a line:
+```
+percentage = (minute * 100) / 60   # percentage of an hour
+```
+
+Everything from the `#` to the end of the line is ignored; it has no effect on the program.
+Comments are most useful when they document non-obvious features of the code. It is reasonable to assume that the reader can figure out _what_ the code does; it is much more useful to explain _why_.
+This comment is redundant with the code and useless:
+```
+v = 5   # assign 5 to v
+```
+
+This comment contains useful information that is not in the code:
+```
+v = 5   # velocity in meters/second.
+```
+
+Good variable names can reduce the need for comments, but long names can make complex expressions hard to read, so there is a trade-off.
+## Choosing mnemonic variable names
+As long as you follow the simple rules of variable naming, and avoid reserved words, you have a lot of choice when you name your variables. In the beginning, this choice can be confusing both when you read a program and when you write your own programs. For example, the following three programs are identical in terms of what they accomplish, but very different when you read them and try to understand them.
+```
+a = 35.0
+b = 12.50
+c = a * b
+print(c)
+```
+```
+hours = 35.0
+rate = 12.50
+pay = hours * rate
+print(pay)
+```
+```
+x1q3z9ahd = 35.0
+x1q3z9afd = 12.50
+x1q3p9afd = x1q3z9ahd * x1q3z9afd
+print(x1q3p9afd)
+```
+
+The Python interpreter sees all three of these programs as _exactly the same_ but humans see and understand these programs quite differently. Humans will most quickly understand the _intent_ of the second program because the programmer has chosen variable names that reflect their intent regarding what data will be stored in each variable.
+We call these wisely chosen variable names “mnemonic variable names”. The word _mnemonic_[ 2](https://www.py4e.com/html3/02-variables#fn2) means “memory aid”. We choose mnemonic variable names to help us remember why we created the variable in the first place.
+While this all sounds great, and it is a very good idea to use mnemonic variable names, mnemonic variable names can get in the way of a beginning programmer’s ability to parse and understand code. This is because beginning programmers have not yet memorized the reserved words (there are only 35 of them) and sometimes variables with names that are too descriptive start to look like part of the language and not just well-chosen variable names.
+Take a quick look at the following Python sample code which loops through some data. We will cover loops soon, but for now try to just puzzle through what this means:
+```
+for word in words:
+  print(word)
+```
+
+What is happening here? Which of the tokens (for, word, in, etc.) are reserved words and which are just variable names? Does Python understand at a fundamental level the notion of words? Beginning programmers have trouble separating what parts of the code _must_ be the same as this example and what parts of the code are simply choices made by the programmer.
+The following code is equivalent to the above code:
+```
+for slice in pizza:
+  print(slice)
+```
+
+It is easier for the beginning programmer to look at this code and know which parts are reserved words defined by Python and which parts are simply variable names chosen by the programmer. It is pretty clear that Python has no fundamental understanding of pizza and slices and the fact that a pizza consists of a set of one or more slices.
+But if our program is truly about reading data and looking for words in the data, `pizza` and `slice` are very un-mnemonic variable names. Choosing them as variable names distracts from the meaning of the program.
+After a pretty short period of time, you will know the most common reserved words and you will start to see the reserved words jumping out at you:
+```
+**for** word **in** words**:**
+  **print**(word)
+
+```
+
+The parts of the code that are defined by Python (`for`, `in`, `print`, and `:`) are in bold and the programmer-chosen variables (`word` and `words`) are not in bold. Many text editors are aware of Python syntax and will color reserved words differently to give you clues to keep your variables and reserved words separate. After a while you will begin to read Python and quickly determine what is a variable and what is a reserved word.
+## Debugging
+At this point, the syntax error you are most likely to make is an illegal variable name, like `class` and `yield`, which are keywords, or `odd~job` and `US$`, which contain illegal characters.
+If you put a space in a variable name, Python thinks it is two operands without an operator:
+```
+>>> bad name = 5
+SyntaxError: invalid syntax
+```
+
+For syntax errors, the error messages don’t help much. The most common messages are `SyntaxError: invalid syntax` which is not very informative.
+The runtime error you are most likely to make is a “use before def;” that is, trying to use a variable before you have assigned a value. This can happen if you spell a variable name wrong:
+```
+>>> principal = 327.68
+>>> interest = principle * rate
+NameError: name 'principle' is not defined
+```
+
+Variables names are case sensitive, so `LaTeX` is not the same as `latex`.
+At this point, the most likely cause of a semantic error is the order of operations. For example, to evaluate 1/2 _π_ , you might be tempted to write
+```
+>>> 1.0 / 2.0 * pi
+```
+
+But the division happens first, so you would get _π_ /2, which is not the same thing! There is no way for Python to know what you meant to write, so in this case you don’t get an error message; you just get the wrong answer.
+## Glossary 
+
+assignment
+     A statement that assigns a value to a variable.  
+
+concatenate
+     To join two operands end to end.  
+
+comment
+     Information in a program that is meant for other programmers (or anyone reading the source code) and has no effect on the execution of the program.  
+
+evaluate
+     To simplify an expression by performing the operations in order to yield a single value.  
+
+expression
+     A combination of variables, operators, and values that represents a single result value.  
+
+floating point
+     A type that represents numbers with fractional parts.  
+
+integer
+     A type that represents whole numbers.  
+
+keyword
+     A reserved word that is used by the compiler to parse a program; you cannot use keywords like `if`, `def`, and `while` as variable names.  
+
+mnemonic
+     A memory aid. We often give variables mnemonic names to help us remember what is stored in the variable.  
+
+modulus operator
+     An operator, denoted with a percent sign (`%`), that works on integers and yields the remainder when one number is divided by another.  
+
+operand
+     One of the values on which an operator operates.  
+
+operator
+     A special symbol that represents a simple computation like addition, multiplication, or string concatenation.  
+
+rules of precedence
+     The set of rules governing the order in which expressions involving multiple operators and operands are evaluated.  
+
+statement
+     A section of code that represents a command or action. So far, the statements we have seen are assignments and print expression statement.  
+
+string
+     A type that represents sequences of characters.  
+
+type
+     A category of values. The types we have seen so far are integers (type `int`), floating-point numbers (type `float`), and strings (type `str`).  
+
+value
+     One of the basic units of data, like a number or string, that a program manipulates.  
+
+variable
+     A name that refers to a value. 
+## Exercises
+**Exercise 2:** Write a program that uses `input` to prompt a user for their name and then welcomes them.
+```
+Enter your name: Chuck
+Hello Chuck
+```
+
+**Exercise 3:** Write a program to prompt the user for hours and rate per hour to compute gross pay.
+```
+Enter Hours: 35
+Enter Rate: 2.75
+Pay: 96.25
+```
+
+We won’t worry about making sure our pay has exactly two digits after the decimal place for now. If you want, you can play with the built-in Python `round` function to properly round the resulting pay to two decimal places.
+**Exercise 4:** Assume that we execute the following assignment statements:
+```
+width = 17
+height = 12.0
+```
+
+For each of the following expressions, write the value of the expression and the type (of the value of the expression).
+  1. `width//2`
+  2. `width/2.0`
+  3. `height/3`
+  4. `1 + 2 * 5`
+
+
+Use the Python interpreter to check your answers.
+**Exercise 5:** Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature.
+  1. In Python 2, this function was named `raw_input`.[↩︎](https://www.py4e.com/html3/02-variables#fnref1)
+  2. See <https://en.wikipedia.org/wiki/Mnemonic> for an extended description of the word “mnemonic”.[↩︎](https://www.py4e.com/html3/02-variables#fnref2)
+
+
+If you find a mistake in this book, feel free to send me a fix using [Github](https://github.com/csev/py4e/tree/master/book3). 
+Chapter 1: Introduction Chapter 2: Variables Chapter 3: Conditionals Chapter 4: Functions Chapter 5: Iterations Chapter 6: Strings Chapter 7: Files Chapter 8: Lists Chapter 9: Dictionaries Chapter 10: Tuples Chapter 11: Regex Chapter 12: Networked Programs Chapter 13: Python and Web Services Chapter 14: Python Objects Chapter 15: Python and Databases Chapter 16: Data Vizualization

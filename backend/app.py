@@ -1,33 +1,32 @@
 import os
 import json
-import requests
-from bs4 import BeautifulSoup
+import logging
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import AzureOpenAI
 from dotenv import load_dotenv, find_dotenv
+from crawl4ai import AsyncWebCrawler
 
-_ = load_dotenv(find_dotenv())
+# Load .env into os.environ
+load_dotenv(find_dotenv())
+
+# Configure logging so you see tracebacks in your console
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 app = FastAPI()
-
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  
-    allow_credentials=True,
-    allow_methods=["*"],  
-    allow_headers=["*"],
+    allow_origins=["*"], allow_credentials=True,
+    allow_methods=["*"], allow_headers=["*"],
 )
 
-endpoint = os.getenv("ENDPOINT_URL")
-deployment = os.getenv("DEPLOYMENT_NAME")
-subscription_key = os.getenv("AZURE_OPENAI_API_KEY")
-
+# Azure OpenAI client
 client = AzureOpenAI(
-    azure_endpoint=endpoint,
-    api_key=subscription_key,
-    api_version="YOUR_API_VERISON",
+    azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
+    api_key      =os.getenv("AZURE_OPENAI_API_KEY"),
+    api_version  =os.getenv("AZURE_OPENAI_API_VERSION"),
 )
 
 class TextInput(BaseModel):
@@ -36,33 +35,31 @@ class TextInput(BaseModel):
 @app.post("/summarize-text/")
 async def summarize_text(input_data: TextInput):
     try:
-        text = input_data.text  
-        
         chat_prompt = [
-            {"role": "system", "content": [{"type": "text", "text": "You are an AI assistant that helps people summarize text."}]},
-            {"role": "user", "content": [{"type": "text", "text": text}]}
+            {"role": "system", "content": [
+                {"type": "text", "text": "You are an AI assistant that summarizes text."}
+            ]},
+            {"role": "user", "content": [
+                {"type": "text", "text": input_data.text}
+            ]}
         ]
-        
         completion = client.chat.completions.create(
-            model=deployment,
-            messages=chat_prompt,
-            max_tokens=800,
-            temperature=0.7,
-            top_p=0.95,
-            frequency_penalty=0,
-            presence_penalty=0,
-            stop=None,
-            stream=False
+            model              = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME"),
+            messages           = chat_prompt,
+            max_tokens         = 800,
+            temperature        = 0.7,
+            top_p              = 0.95,
+            frequency_penalty  = 0,
+            presence_penalty   = 0,
+            stream             = False,
         )
+        data = json.loads(completion.to_json())
+        return {"summary": data["choices"][0]["message"]["content"]}
 
-        response_json = completion.to_json()
-        response_dict = json.loads(response_json)
-        summary = response_dict["choices"][0]["message"]["content"]
-        
-        return {"summary": summary}
-    
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error processing the content: {str(e)}")
+        logger.exception("summarize-text failed")
+        raise HTTPException(500, detail=str(e))
+
 
 class URLItem(BaseModel):
     url: str
@@ -70,17 +67,22 @@ class URLItem(BaseModel):
 @app.post("/scrape/")
 async def scrape_url(url_item: URLItem):
     try:
-        response = requests.get(url_item.url, headers={"User-Agent": "Mozilla/5.0"})
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.text, "html.parser")
-            text_content = soup.get_text(separator="\n", strip=True)
-            
-            file_path = "scraped_text.txt"
-            with open(file_path, "w", encoding="utf-8") as file:
-                file.write(text_content)
-            
-            return {"content": text_content, "file": file_path}
-        else:
-            raise HTTPException(status_code=response.status_code, detail="Unable to fetch the website")
+        # Use AsyncWebCrawler.arun() (not .crawl())
+        async with AsyncWebCrawler() as crawler:
+            result = await crawler.arun(url=url_item.url)
+
+        # Prefer markdown, fallback to plain text
+        text_content = getattr(result, "markdown", None) or getattr(result, "text", None)
+        if not text_content:
+            raise ValueError("No content extracted (markdown/text is empty)")
+
+        # Persist to file
+        file_path = "scraped_text.txt"
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(text_content)
+
+        return {"content": text_content, "file": file_path}
+
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error scraping the website: {str(e)}")
+        logger.exception("Error in /scrape/")
+        raise HTTPException(500, detail=f"Scraping failed: {e}")
