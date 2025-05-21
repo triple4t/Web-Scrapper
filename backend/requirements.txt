@@ -1,0 +1,6 @@
+gradio
+requests
+beautifulsoup4
+crawl4ai
+fastapi 
+uvicorn 
